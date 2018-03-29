@@ -48,7 +48,7 @@ def monopoly_with_fourth_tier
 		railroads: {
 			pieces: 4,
 			names: {
-				# based on test instructions not using symbol for key.   So looks like the => syntax is needed?   
+				# based on test instructions not using symbol for key.   So looks like the => syntax is needed?
 				reading_railroad: {"mortgage_value" => "$100"},
 				pennsylvania_railroad: {"mortgage_value" => "$200"},
 				b_and_o_railroad: {"mortgage_value" => "$400"},
